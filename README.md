@@ -60,7 +60,7 @@ O projeto está alinhado diretamente com os Objetivos de Desenvolvimento Sustent
 ## ⏱️ Cronograma e Sprints
 * **Fase 1 (Semanas 1–2):** Iniciação, Termo de Abertura e PMC.
 * **Fase 2 (Semanas 3–4):** Elicitação de Requisitos, Personas e Backlog MoSCoW.
-* **Fase 3 (Semanas 5–6):** Modelagem de Arquitetura e Configuração do Repositório Git / CI/CD.
+* **Fase 3 (Semanas 5–6):** Modelagem de Arquitetura e Configuração do Repositório Git.
 * **Fase 4 (Semanas 7–10 - MVP):**
   * *Sprint 1:* Módulo de Autenticação e Perfis.
   * *Sprint 2:* Módulo de Zeladoria Urbana e Protocolos.
