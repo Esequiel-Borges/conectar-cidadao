@@ -48,6 +48,7 @@ O projeto está alinhado diretamente com os Objetivos de Desenvolvimento Sustent
    * Elicitação de Requisitos e Mapeamento de Personas (Cidadão e Gestor)
    * Product Backlog Priorizado (MoSCoW)
 3. **Arquitetura e Infraestrutura**
+   *Interface UML/APLICATIVO DRAW IO
    * Configuração do Repositório Git 
 4. **Construção e Validação do MVP**
    * Módulo de Autenticação e Perfis de Acesso
