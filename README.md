@@ -49,7 +49,7 @@ O projeto está alinhado diretamente com os Objetivos de Desenvolvimento Sustent
    * Product Backlog Priorizado (MoSCoW)
 3. **Arquitetura e Infraestrutura**
    * Modelagem de Processos (BPMN / UML)
-   * Configuração do Repositório Git e Pipeline CI/CD
+   * Configuração do Repositório Git 
 4. **Construção e Validação do MVP**
    * Módulo de Autenticação e Perfis de Acesso
    * Módulo de Zeladoria Urbana (Geolocalização, Fotos e Protocolo)
